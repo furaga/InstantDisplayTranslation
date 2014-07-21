@@ -300,6 +300,7 @@ namespace InstantDisplayTranslation
         private void Reflesh_Click(object sender, EventArgs e)
         {
             RefleshVirtualScreenBounds();
+            canvas.Invalidate();
         }
 
         Rectangle[] GetRealScreenBounds()

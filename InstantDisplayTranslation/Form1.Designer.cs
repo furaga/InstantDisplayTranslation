@@ -136,11 +136,11 @@
             // 
             // Reflesh
             // 
-            this.Reflesh.Location = new System.Drawing.Point(11, 165);
+            this.Reflesh.Location = new System.Drawing.Point(12, 159);
             this.Reflesh.Name = "Reflesh";
-            this.Reflesh.Size = new System.Drawing.Size(132, 23);
+            this.Reflesh.Size = new System.Drawing.Size(167, 23);
             this.Reflesh.TabIndex = 3;
-            this.Reflesh.Text = "Reload real screens";
+            this.Reflesh.Text = "Reload real display config";
             this.Reflesh.UseVisualStyleBackColor = true;
             this.Reflesh.Click += new System.EventHandler(this.Reflesh_Click);
             // 
@@ -164,9 +164,9 @@
             this.label2.Font = new System.Drawing.Font("MS UI Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.label2.Location = new System.Drawing.Point(3, 9);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(259, 21);
+            this.label2.Size = new System.Drawing.Size(256, 21);
             this.label2.TabIndex = 32;
-            this.label2.Text = "Virtual screen arrangements";
+            this.label2.Text = "Virtual display arrangements";
             // 
             // canvas
             // 

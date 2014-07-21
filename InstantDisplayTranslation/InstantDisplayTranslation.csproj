@@ -86,9 +86,6 @@
     <None Include="Resources\Icon.ico" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\icon.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="bin\Debug\icon.ico" />
   </ItemGroup>
   <ItemGroup>
